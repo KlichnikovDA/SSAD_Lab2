@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcreteBuilders.cs" />
+    <Compile Include="Director.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmartHouse.cs" />
+    <Compile Include="SmartHouseBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
