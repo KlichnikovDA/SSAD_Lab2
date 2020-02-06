@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.SmartHouseBuilder1" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCAAAAAAAAAAAIAAAAAAAgAAFIAAAAAAAA=</HashCode>
+      <FileName>ConcreteBuilders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.SmartHouseBuilder2" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCAAAAAAAAAAAIAAAAAAAgAAFIAAAAAAAA=</HashCode>
+      <FileName>ConcreteBuilders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.SmartHouseBuilder3" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCAAAAAAAAAAAIAAAAAAAgAAFIAAAAAAAA=</HashCode>
+      <FileName>ConcreteBuilders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Director" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Program" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.SmartHouse" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEAICAAAAAAgAAAAAhAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Sensor" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Executive" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Panel" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Multimedia" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Controller" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Network" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.SmartHouseBuilder" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCAAAAAAAAAAAIAAAAAAAgAAFoAAAAAAAA=</HashCode>
+      <FileName>SmartHouseBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
